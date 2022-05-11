@@ -1,6 +1,6 @@
 # **Case Study: How Can a Wellness Technology Company Play It Smart?**
 
-![a man and a woman running](./images/workout.jpg)
+![a man and a woman running](https://github.com/CharlesIvia/bellabeat/blob/main/images/workout.jpg?raw=true)
 *Image: Getty Images/iStock*
 
 ## Scenario 
